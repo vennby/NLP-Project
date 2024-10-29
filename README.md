@@ -1,5 +1,5 @@
 <h1 align="center"> Ink and Insight </h1>
-<h4 align="center"> Team 3's repo for the NLP Term Project for Semester 1, 2-24-25. </h4>
+<h4 align="center"> Team 3's repo for the NLP Term Project for Semester 1, 2024-25. </h4>
 
 <h3> Team Details </h3>
 
