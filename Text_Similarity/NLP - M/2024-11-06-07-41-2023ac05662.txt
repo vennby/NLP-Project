@@ -1,0 +1,48 @@
+Page 1:
+===
+
+Assignment - 1
+
+AIMLC2C416- Mathematical Foundation for Machine learning
+
+Name - Aarau Gotra BitsID-2023ac05662@wilp.bits-pilani.ac.in 1. Using only the idea that in the equation (=AB where C, A, s are nxn matrices, the ithrow of the- matrix C for Isisn is obtained by taking a linear Combination of the rows of B where the combining Coefficients come from the ith row of A, show that the inverse of a lower triangular matrix is a lower triangular matrix.
+
+Solution Givent (=AB where A, C, B are nxn matrices Toprovet inverse of a lower triangular matrix is a laver triangular matrix.
+
+Proof - To show that the inverse of a lower triangular matrix is also a lower triangular
+
+matrix, use the property of metrix multiplication described in the problem: the i-the row of the matrix c (where (=AB) is obtained by
+
+
+Page 2:
+===
+
+taking a linear Combination of the rows of B with the Combining Coefficients coming from the ith row of A
+
+Let Me be a lower triangular matrix of order nxn. To show that it's inverse MY is also a lower triangular matrix
+
+Consider Mand M+ Such that .: MM+ = I.
+
+M= 111 0 0 .
+☐
+
+0
+
+322 0
+☐
+
+0
+
+. Mal mn2 0
+
+man
+
+since M is lower triangular, all entries above the diagonal one zero.
+
+Consider the matrix product MM+ = I. the ith row of the identity matrix I (denoted as Ii)
+
+is Ii = (0,0, \_\_ 1, ... 0,0)
+
+with a 1 in the ith position and O elsewhere. Linear combination for Rows of MY.
+
+The im row of MY is determined by the requirement

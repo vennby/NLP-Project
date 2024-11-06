@@ -1,0 +1,80 @@
+Page 1:
+===
+
+6/7/24
+
+ASSIGNMENT-1. AIMLCZC416 - MFML.
+
+AADHITHYAN N 2023ad05098.
+
+1. Given: C= AB
+
+Where A,B, C are of ordern.
+
+Prove: Inverse of a lower Amatrix is a lower A matrix.
+
+Prof.
+
+Le Lower Amatrix of nxn.
+
+We need to show that L+ is also lower Amatrix. L·L" = I & I is Identity matrin of order n. Let L. be
+
+L= 200 0
+
+22, 222 0 ..... ☐ 0
+
+In, In. ...
+
+200
+
+Let's assume L' has a general
+
+form.
+
+D
+
+☐ 0 0
+
+LI
+
+'21 m
+
+122 0
+
+mo m D2 on
+
+=> [.2 -= \\ l. :
+
+0 0 ... 0-
+
+m. 0 0 .
+
+0
+
+1
+
+1 --
+
+mon 5 l, nn Mni
+
+For ith row of L.L", it is a LC of rows 1%, with coefficients coming fromL.
+
+
+Page 2:
+===
+
+· For i=1.,
+
+2,m11 = 1. => lu= 1 mil
+
+For i=2.
+
+2, 31 + 2 === & l2m2= 1.
+
+=> M2= 1 & m21= {21 l22.
+
+Tzel11.
+
+Continuing this process for all i, we get entries mij=8;+j>2 are all.
+
+L' is a lower Amatrix.

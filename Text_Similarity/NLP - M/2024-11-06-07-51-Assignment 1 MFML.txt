@@ -1,0 +1,65 @@
+Page 1:
+===
+
+NAME : AATHIRA DAS BITS ID: 2023ad 05108
+
+Mathematical Foundation for Machine Learning. 1
+
+Assignment -1
+
+1.
+
+C= AB where C,A,B are nen matrices
+
+Let B be a lower triangular matrix of sise nxn, B= bij, where by =0 for ici.
+
+Let us Prove B-1 is also lowers triangular.
+
+Suppose A is a non matis such the C=AB (given) then C= nxn matrix.
+
+Each row i of C is obtained by taking a linear combination of the rows of B , where coefficients come from ith row of A.
+
+Now (-1=B'A'
+
+11 B is invertible C=AB=> c-1= A-B-' 0 B' is the inverse of lower triangular matrix B . Inverse of lower triangular matux is also lower triangular.
+
+At is the inverse of A. From the properties of matins multiplication A-1 is also lower triangular.
+
+Since B+ and A+ are both lower triangular then c-1=B-A- will also be lower tecangular.
+
+
+Page 2:
+===
+
+Image With Text:
+chandra's
+
+Il n is an eigen value of a square males A there exists a non-zero vector v such that Av: nu
+
+The eigenvalues of A are the roots of this polynomial
+
+det (A - nI) = 0
+
+where I is the nyn identity moters. 1
+
+Cet det (A) = n/, where te is an integer, Then det ( A-NI ) = (-1) " det (nI-A) = (-1) "(n2-tr (A) n"-"+ .... + (-1) " det (A) = 0 here to(A) = trace of A
+
+Since, n is an eigen value of A
+
+det (A-NI) = 0 implies n dirdes det1).
+
+.: det (A)= nk for some integer ke.
+
+3.
+
+yves that, A is an invertible mateix of order n This means there exists, A- and i rank (A) = n AA= A'A = I .
+
+Consider a matex B of nxn order.
+
+Multiply Both sides of the equation by AB by A+ on the left gues
+
+A-1(AB) = 'A 'AB (A'A) B = 1B B= B
+
+P.T.O
+
+2.

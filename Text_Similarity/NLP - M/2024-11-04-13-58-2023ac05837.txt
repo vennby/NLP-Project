@@ -1,0 +1,54 @@
+Page 1:
+===
+
+05/07/2024 MFML Assignment 1
+
+2023ac05837 A & Saimanohar Rano Section 7
+
+Image With Text:
+A1) As per question C= AB in defined as below
+
+Cij= Ai1 Bij+ Aj2-B2j + .... + AjaxBnj It is If thereare two matrices A and B where B=A-1 then we know that A.A+=I Where I = Identity matrix -> A·B = 1 using above we can say that
+
+Cij= Ai Bij+ Aj2 B2; + ... +AinBnj = 0 fait; = 1 for i=j Now we know that A is an lower triangular matrix > Aij = 0 for icj
+
+Now for the condition that i <j, we know two below :- Cij = 0 -1 Aij= 0
+
+As B= A-, Bij values are obtained from Cofactors of matin A Due to this, for eq 1 to be possible Bijelements should also be zero when i<j, which means Bmatria should be a lower triangular matrix.
+
+
+Page 2:
+===
+
+Image With Text:
+A2
+
+Let A be the square matrix nxn then as per question Statement
+
+2023ac 03837 AC) Saimanohar Ras
+
+Ax = nx since n is A's eigen value
+
+which can be written as
+
+Ax-nx = O.I where I = Identity mation
+
+\-> (A-n. I)x= 0.1
+
+Not apply determinat on both sides
+
+1 - det (A-n-1) x) = det (O.I) = 0
+
+Now we know that det (AB) = det A. det B then 1 can be rewritten as det (A-n.I) . det (x) = 0
+
+Now since 'x' which is eigen vector then it will non-zero by definition.
+
+This means det (A-n-I) = 0
+
+det (A) - det (nº1) = 0 det (A) -ndet (1) = 0 det (A) = n det (1) = n
+
+Since determinat of Identity matrix 2 1
+
+Now det (A) =n but as per question statement we know that A has integer elements and in is also integer
+
+this means det (A) = n. K where K is an integer
